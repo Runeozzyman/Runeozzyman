@@ -1,7 +1,7 @@
 ## Hey There! 👋
 <p> Welcome to my profile!</p>
 
-## About me
+## A Little About Me and What I'm Interested In! 💻
 
 ```yaml
 name: Austin Wort
