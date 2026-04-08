@@ -1,10 +1,30 @@
-<p align="center">
-  <img src="![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)"/>
-</p>
+## Hey There! 👋
+<p> Welcome to my profile!</p>
 
-<a href="https://www.linkedin.com/in/austinwort/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+## About me
+
+```yaml
+name: Austin Wort
+located_in: Calgary, AB
+
+education:
+[
+  Degree: B.Eng Computer (Software) Engineering
+  Institution: Toronto Metropolitan University
+]
+
+fields_of_interest:
+[
+  "Full-Stack Development"
+  "Front-End Development"
+  "Back-End Development"
+  "API Developer"
+]
+
+currently_learning: ["Next.js, Redis, TanStack Query"]
+
+hobbies: ["Gaming, Guitar, DJing, Making music"]
+```
 <!--
 **Runeozzyman/Runeozzyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
