@@ -3,7 +3,7 @@
 <p align="center">Just trying to build cool things.</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl6YmpqbXpjam9lcnRlZnNndmozeXVtYW5seW0weGowdzJ6bDExcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl6YmpqbXpjam9lcnRlZnNndmozeXVtYW5seW0weGowdzJ6bDExcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif" width="300" />
 </p>
 
 
