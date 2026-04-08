@@ -8,19 +8,19 @@ name: Austin Wort
 located_in: Calgary, AB
 
 education:
-[
-  Degree: B.Eng Computer (Software) Engineering
-  Institution: Toronto Metropolitan University
-]
+  [
+    Degree: B.Eng Computer (Software) Engineering
+    Institution: Toronto Metropolitan University
+  ]
 
 fields_of_interest:
-[
-  "Full-Stack Development",
-  "Front-End Development",
-  "Back-End Development",
-  "API Development",
-  "Machine Learning",
-]
+  [
+    "Full-Stack Development",
+    "Front-End Development",
+    "Back-End Development",
+    "API Development",
+    "Machine Learning",
+  ]
 
 currently_learning: ["Next.js, Redis, TanStack Query"]
 
