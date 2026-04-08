@@ -15,10 +15,11 @@ education:
 
 fields_of_interest:
 [
-  "Full-Stack Development"
-  "Front-End Development"
-  "Back-End Development"
-  "API Developer"
+  "Full-Stack Development",
+  "Front-End Development",
+  "Back-End Development",
+  "API Development",
+  "Machine Learning",
 ]
 
 currently_learning: ["Next.js, Redis, TanStack Query"]
