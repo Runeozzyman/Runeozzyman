@@ -6,8 +6,30 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl6YmpqbXpjam9lcnRlZnNndmozeXVtYW5seW0weGowdzJ6bDExcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif" width="300" />
 </p>
 
+# 🚀 Featured Projects
 
-## A Little About Me and What I'm Interested In 💻
+### 🎵 Song-Off
+> Community-driven music leaderboard where weekly song submissions are ranked and showcased.
+
+**Tech:** React · Node.js · Express · Supabase  
+
+---
+
+### 🗑️ Smart-Waste Sorting System
+> Computer vision system that classifies waste using real-time image recognition.
+
+**Tech:** React · Python · OpenCV · PyTorch · YOLOv11  
+
+---
+
+## 🛠️ Currently Working On
+
+### 🔎 KitScout
+> Search platform for model kits that aggregates multiple sources to find the best price.
+
+**Tech:** React · Next.js · Redis · TanStack Query  
+
+# A Little About Me and What I'm Interested In 💻
 
 ```yaml
 name: Austin Wort
@@ -33,7 +55,7 @@ currently_learning: ["Next.js, Redis, TanStack Query"]
 hobbies: ["Gaming, Guitar, DJing, Making music"]
 ```
 
-## My Skills and Tools 🤹‍♂️
+# My Skills and Tools 🤹‍♂️
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" style="margin: 0 12px;" />
@@ -49,6 +71,7 @@ hobbies: ["Gaming, Guitar, DJing, Making music"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" style="margin: 0 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" style="margin: 0 12px;" />
 </p>
+
             
 
 
