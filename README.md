@@ -34,7 +34,7 @@
 ### 📲 MyMesh
 > Immediate multi-device file and image transfer service.
 
-**Tech:** Electron, React, TBD
+**Tech:** Electron · React · TBD
 
 # A Little About Me and What I'm Interested In 💻
 
