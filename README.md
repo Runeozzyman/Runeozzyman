@@ -57,7 +57,7 @@ fields_of_interest:
     "Machine Learning",
   ]
 
-currently_learning: ["Next.js, Redis, TanStack Query"]
+currently_learning: ["Next.js, ELectron"]
 
 hobbies: ["Gaming, Guitar, DJing, Making music"]
 ```
