@@ -22,12 +22,19 @@
 
 ---
 
-## 🛠️ Currently Working On
-
 ### 🔎 KitScout
 > Search platform for model kits that aggregates multiple sources to find the best price.
 
 **Tech:** React · Next.js · Redis · TanStack Query  
+
+---
+
+## 🛠️ Currently Working On
+
+### 📲 MyMesh
+> Immediate multi-device file and image transfer service.
+
+**Tech:** Electron, React, TBD
 
 # A Little About Me and What I'm Interested In 💻
 
