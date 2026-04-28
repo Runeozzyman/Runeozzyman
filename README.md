@@ -57,7 +57,7 @@ fields_of_interest:
     "Machine Learning",
   ]
 
-currently_learning: ["Next.js, ELectron"]
+currently_learning: ["Next.js, Electron"]
 
 hobbies: ["Gaming, Guitar, DJing, Making music"]
 ```
