@@ -31,10 +31,10 @@
 
 ## 🛠️ Currently Working On
 
-### 📲 MyMesh
-> Immediate multi-device file and image transfer service.
+### 📧 PostOffice 
+> Desktop application that allows users to view and filter their email in a customizable and intuitive manner through the use of 'Mailslots'
 
-**Tech:** Electron · React · TBD
+**Tech:** Electron · React · SQLite 
 
 # A Little About Me and What I'm Interested In 💻
 
