@@ -6,6 +6,13 @@ and scalable software systems.
 
 # Featured Projects
 
+### PostOffice 
+Desktop application that allows users to view and filter their email in a customizable and intuitive manner through the use of 'Mailslots'
+
+<b>TypeScript · Electron · React · SQLite </b>
+
+---
+
 ### KitScout
 Search platform for model kits that aggregates multiple sources to find the best price.
 
@@ -36,12 +43,6 @@ Community-driven music leaderboard where weekly song submissions are ranked and 
 
 <b>React · Node.js · Express · Supabase  </b>
 
----
-
-### PostOffice 
-Desktop application that allows users to view and filter their email in a customizable and intuitive manner through the use of 'Mailslots'
-
-<b>TypeScript · Electron · React · SQLite </b>
 
 # My Skills and Tools 🤹‍♂️
 
