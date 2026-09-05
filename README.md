@@ -7,47 +7,47 @@ and scalable software systems.
 # Featured Projects
 
 ### PostOffice 
-```
+`
 Desktop application that allows users to view and filter their email in a customizable and intuitive manner through the use of 'Mailslots'
 
 <b>TypeScript · Electron · React · SQLite </b>
-```
+`
 ---
 
 ### KitScout
-```
+`
 Search platform for model kits that aggregates multiple sources to find the best price.
 
 
 <b>TypeScript · React · Next.js · Redis · TanStack Query</b> 
-```
+`
 ---
 
 ### Smart-Waste Sorting System
-```
+`
 Computer vision system that classifies waste using real-time image recognition.
 
 
 <b>React · Python · OpenCV · PyTorch · YOLOv11 </b> 
-```
+`
 ---
 
 ### KitScout
-```
+`
 Search platform for model kits that aggregates multiple sources to find the best price.
 
 
 <b>TypeScript · React · Next.js · Redis · TanStack Query</b> 
-```
+`
 ---
 
 ### Song-Off
-```
+`
 Community-driven music leaderboard where weekly song submissions are ranked and showcased.
 
 
 <b>React · Node.js · Express · Supabase  </b>
-```
+`
 # My Skills and Tools 🤹‍♂️
 
 <p align="center">
