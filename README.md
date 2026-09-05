@@ -8,7 +8,7 @@ I'm a Computer Engineering graduate from Toronto Metropolitan University with a 
 
 # Featured Projects
 
-### [PostOffice](PROJECT_LINK)
+### [PostOffice](https://github.com/Runeozzyman/PostOffice)
 
 Desktop email application that allows users to organize and filter their inbox through customizable "Mailslots."
 
@@ -16,7 +16,7 @@ Desktop email application that allows users to organize and filter their inbox t
 
 ---
 
-### [KitScout](PROJECT_LINK)
+### [KitScout](https://github.com/Runeozzyman/KitScout)
 
 Search platform that aggregates model kits from multiple sources to help users find the best price.
 
@@ -24,7 +24,7 @@ Search platform that aggregates model kits from multiple sources to help users f
 
 ---
 
-### [Smart-Waste Sorting System](PROJECT_LINK)
+### [Smart-Waste Sorting System](https://github.com/Runeozzyman/Smart-Waste-Sorting-System)
 
 Computer vision system that uses real-time image recognition to classify waste.
 
@@ -32,7 +32,7 @@ Computer vision system that uses real-time image recognition to classify waste.
 
 ---
 
-### [Song-Off](PROJECT_LINK)
+### [Song-Off](https://github.com/Runeozzyman/Song-Off)
 
 Community-driven music leaderboard where weekly song submissions are ranked and showcased.
 
