@@ -1,66 +1,39 @@
-<h1 align="center">Hey There! 👋 </h1>
+<h1 align="center">Austin Wort</h1>
+<b>Computer Engineering graduate | Software Developer</b>
 
-<p align="center">I'm Austin, and I'm just trying to build cool things.</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl6YmpqbXpjam9lcnRlZnNndmozeXVtYW5seW0weGowdzJ6bDExcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.gif" width="300" />
-</p>
+I'm a Computer Engineering graduate from Toronto Metropolitan University with a focus on building full-stack applications, APIs,
+and scalable software systems.
 
 # Featured Projects
 
-### 🎵 Song-Off
-> Community-driven music leaderboard where weekly song submissions are ranked and showcased.
-
-**Tech:** React · Node.js · Express · Supabase  
-
----
-
-### 🗑️ Smart-Waste Sorting System
-> Computer vision system that classifies waste using real-time image recognition.
-
-**Tech:** React · Python · OpenCV · PyTorch · YOLOv11  
+### KitScout
+Search platform for model kits that aggregates multiple sources to find the best price.
+<b>TypeScript · React · Next.js · Redis · TanStack Query</b> 
 
 ---
 
-### 🔎 KitScout
-> Search platform for model kits that aggregates multiple sources to find the best price.
-
-**Tech:** React · Next.js · Redis · TanStack Query  
+### Smart-Waste Sorting System
+Computer vision system that classifies waste using real-time image recognition.
+<b>React · Python · OpenCV · PyTorch · YOLOv11 </b> 
 
 ---
 
-## 🛠️ Currently Working On
+### KitScout
+Search platform for model kits that aggregates multiple sources to find the best price.
+<b>TypeScript · React · Next.js · Redis · TanStack Query</b> 
 
-### 📧 PostOffice 
-> Desktop application that allows users to view and filter their email in a customizable and intuitive manner through the use of 'Mailslots'
+---
 
-**Tech:** Electron · React · SQLite 
+### Song-Off
+Community-driven music leaderboard where weekly song submissions are ranked and showcased.
+<b>React · Node.js · Express · Supabase  </b>
 
-# A Little About Me and What I'm Interested In 💻
+---
 
-```yaml
-name: Austin Wort
-located_in: Calgary, AB
+### PostOffice 
+Desktop application that allows users to view and filter their email in a customizable and intuitive manner through the use of 'Mailslots'
 
-education:
-  [
-    Degree: B.Eng Computer (Software) Engineering
-    Institution: Toronto Metropolitan University
-  ]
-
-fields_of_interest:
-  [
-    "Full-Stack Development",
-    "Front-End Development",
-    "Back-End Development",
-    "API Development",
-    "Machine Learning",
-  ]
-
-currently_learning: ["Next.js, Electron"]
-
-hobbies: ["Gaming, Guitar, DJing, Making music"]
-```
+<b>TypeScript · Electron · React · SQLite </b>
 
 # My Skills and Tools 🤹‍♂️
 
