@@ -8,6 +8,12 @@ I'm a Computer Engineering graduate from Toronto Metropolitan University with a 
 
 # Featured Projects
 
+### [Stretchi](https://github.com/Runeozzyman/Stretchi)
+
+Vertical agent for pain relief built with Vercel's Eve framework
+
+**Eve, TypeScript · Node.js · GraphQL · Yoga**
+
 ### [PostOffice](https://github.com/Runeozzyman/PostOffice)
 
 Desktop email application that allows users to organize and filter their inbox through customizable "Mailslots."
